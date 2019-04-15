@@ -10,6 +10,7 @@ public class Tueday {
 			// here we can declare the value in the form of git 
 			one = "First Name";
 			int value  = 43;
+			System.out.println("here is the value we went to put here");
 			
 			
 		}
