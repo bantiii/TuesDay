@@ -12,5 +12,7 @@ public class JubnitProject {
 public void SecondName(){
 	System.out.println("this is the Second mETHOD OF THE day");//one
 	//the value here is not telling the right thing but making it more clear 
+	int a = 78;
+	System.out.println("this is gonna be the First value in the list"+a);
 }
 }
