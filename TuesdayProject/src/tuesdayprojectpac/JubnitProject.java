@@ -7,7 +7,7 @@ public class JubnitProject {
 		System.out.println("the value in junit is so cool");
 	}
 	public void ValueOneNmae(){
-		System.out.println("this is gonna be the first and the most common");
+		System.out.println("this is gonna be the first and the most common");//one
 	}
 
 }
