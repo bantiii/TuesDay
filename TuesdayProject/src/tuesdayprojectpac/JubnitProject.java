@@ -10,6 +10,6 @@ public class JubnitProject {
 		System.out.println("this is gonna be the first and the most common");
 	}
 public void SecondName(){
-	System.out.println("this is the Second mETHOD OF THE day");
+	System.out.println("this is the Second mETHOD OF THE day");//one
 }
 }
