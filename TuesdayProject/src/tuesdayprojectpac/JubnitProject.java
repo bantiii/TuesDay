@@ -9,5 +9,7 @@ public class JubnitProject {
 	public void ValueOneNmae(){
 		System.out.println("this is gonna be the first and the most common");//one
 	}
-
+public void SecondName(){
+	System.out.println("this is the Second mETHOD OF THE day");//one
+}
 }
